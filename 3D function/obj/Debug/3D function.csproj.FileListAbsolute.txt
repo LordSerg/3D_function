@@ -13,3 +13,41 @@ C:\Users\moskalenko_s\Desktop\My games\3D function\3D function\obj\Debug\_3D_fun
 C:\Users\moskalenko_s\Desktop\My games\3D function\3D function\obj\Debug\3D function.csproj.GenerateResource.Cache
 C:\Users\moskalenko_s\Desktop\My games\3D function\3D function\obj\Debug\3D function.exe
 C:\Users\moskalenko_s\Desktop\My games\3D function\3D function\obj\Debug\3D function.pdb
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\3D function.exe.config
+d:\My_projects\My_games\3D_function\3D function\obj\Debug\3D function.exe
+d:\My_projects\My_games\3D_function\3D function\obj\Debug\3D function.pdb
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\3D function.exe
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\3D function.pdb
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\OpenTK.Compatibility.dll
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\OpenTK.dll
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\OpenTK.GLControl.dll
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\OpenTK.pdb
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\OpenTK.xml
+d:\My_projects\My_games\3D_function\3D function\bin\Debug\OpenTK.GLControl.xml
+d:\My_projects\My_games\3D_function\3D function\obj\Debug\_3D_function.Form1.resources
+d:\My_projects\My_games\3D_function\3D function\obj\Debug\_3D_function.Properties.Resources.resources
+d:\My_projects\My_games\3D_function\3D function\obj\Debug\3D function.csproj.GenerateResource.Cache
+D:\My_projects\My_games\3D_function\3D function\bin\Debug\OpenTK.dll.config
+D:\My_projects\My_games\3D_function\3D function\bin\Debug\OpenTK.Compatibility.dll.config
+D:\My_projects\My_games\3D_function\3D function\obj\Debug\3D function.csproj.CoreCompileInputs.cache
+D:\My_projects\My_games\3D_function\3D function\obj\Debug\3D function.csproj.CopyComplete
+D:\My_projects\My_games\3D_function\3D function\obj\Debug\3D function.csprojAssemblyReference.cache
+D:\_My_Games\_3D_function\3D function\bin\Debug\3D function.exe.config
+D:\_My_Games\_3D_function\3D function\bin\Debug\3D function.exe
+D:\_My_Games\_3D_function\3D function\bin\Debug\3D function.pdb
+D:\_My_Games\_3D_function\3D function\bin\Debug\OpenTK.Compatibility.dll
+D:\_My_Games\_3D_function\3D function\bin\Debug\OpenTK.dll
+D:\_My_Games\_3D_function\3D function\bin\Debug\OpenTK.GLControl.dll
+D:\_My_Games\_3D_function\3D function\bin\Debug\OpenTK.pdb
+D:\_My_Games\_3D_function\3D function\bin\Debug\OpenTK.xml
+D:\_My_Games\_3D_function\3D function\bin\Debug\OpenTK.dll.config
+D:\_My_Games\_3D_function\3D function\bin\Debug\OpenTK.Compatibility.dll.config
+D:\_My_Games\_3D_function\3D function\bin\Debug\OpenTK.GLControl.xml
+D:\_My_Games\_3D_function\3D function\obj\Debug\3D function.csprojAssemblyReference.cache
+D:\_My_Games\_3D_function\3D function\obj\Debug\_3D_function.Form1.resources
+D:\_My_Games\_3D_function\3D function\obj\Debug\_3D_function.Properties.Resources.resources
+D:\_My_Games\_3D_function\3D function\obj\Debug\3D function.csproj.GenerateResource.cache
+D:\_My_Games\_3D_function\3D function\obj\Debug\3D function.csproj.CoreCompileInputs.cache
+D:\_My_Games\_3D_function\3D function\obj\Debug\3D function.csproj.CopyComplete
+D:\_My_Games\_3D_function\3D function\obj\Debug\3D function.exe
+D:\_My_Games\_3D_function\3D function\obj\Debug\3D function.pdb
